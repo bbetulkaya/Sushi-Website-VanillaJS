@@ -35,7 +35,7 @@ Explore the live version of the Sushi Website on [GitHub Pages](https://youruser
 - `index.html`: Main HTML file.
 - `css/`: Directory containing CSS files.
 - `js/`: Directory containing JavaScript files.
-- `images/`: Directory containing images and graphics.
+- `assets/`: Directory containing images and graphics.
 - `screenshots/`: Directory containing project screenshots.
 
 ## Connect with Me
