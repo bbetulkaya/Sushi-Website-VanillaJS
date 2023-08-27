@@ -5,9 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" href="public/sushi.png" type="image/png" />
     <link rel="stylesheet" href="css/style.css" />
+    <!-- AOS Animation Link -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
     <title>Sushiman</title>
   </head>
   <body>
+    <!-- AOS Animation import -->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+      AOS.init({
+        duration: 1000,
+        offset: 100,
+      });
+    </script>
     <script src="js/script.js" type="module"></script>
 
     <header>
@@ -376,6 +386,5 @@
         </li>
       </ul>
     </footer>
-
   </body>
 </html>
