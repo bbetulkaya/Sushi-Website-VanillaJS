@@ -33,8 +33,8 @@ Explore the live version of the Sushi Website on [GitHub Pages](https://youruser
 ## Project Structure
 
 - `index.html`: Main HTML file.
-- `styles/`: Directory containing CSS files.
-- `scripts/`: Directory containing JavaScript files.
+- `css/`: Directory containing CSS files.
+- `js/`: Directory containing JavaScript files.
 - `images/`: Directory containing images and graphics.
 - `screenshots/`: Directory containing project screenshots.
 
